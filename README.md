@@ -1,2 +1,3 @@
 # POKEMON
-Scrip termux
+git clone https://github.com/keyla199135-coder/dayanaAs.git
+
