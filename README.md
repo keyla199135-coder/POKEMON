@@ -1,0 +1,2 @@
+# POKEMON
+Scrip termux
